@@ -29,7 +29,7 @@ function Footer() {
             <li>Newsroom</li>
             <li>NAdvertising</li>
           </ul>
-          <ul className="text-right lg:flex">
+          <ul className="text-right lg:flex ">
             <li>Home</li>
             <li>Destination</li>
             <li>Travel</li>
